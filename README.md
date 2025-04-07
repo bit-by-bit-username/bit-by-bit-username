@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Bit by Bit
 
-<!--
-**bit-by-bit-username/bit-by-bit-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m building my life one bit at a time — through code, creativity, and curiosity.
 
-Here are some ideas to get you started:
+🔎 I explore the intersection of:
+- 🤖 Artificial Intelligence & Data Science
+- 🔬 Physics Simulations & Scientific Computing
+- 🧮 Math (especially geometry!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📺 **Coming soon:** My YouTube channel — sharing bold projects like:
+- 🧠 Creating an app to manage my life
+- 🧮 Rebuilding geometry engines from scratch
+- 🔌 Making a computer, bit by bit
+  
+  🌱 I'm learning in public. Building in public. Failing in public.  
+And I believe that’s the best way to grow.
+
+---
+
+### 🚀 Current Projects
+
+| Project            | Description                                         |
+|--------------------|-----------------------------------------------------|
+| `life-planner-app` | An AI-powered life assistant I’m building for myself |
+| `geometry-engine`  | Visual math experiments powered by code             |
+| `from-zero-computer` | Building a virtual computer from first principles |
+
+---
+
+📫 **Let’s connect**  
+If you're curious, weird, or building wild things too — reach out!
+
+🧠 beatbybeat111@gmail.com
+
+
